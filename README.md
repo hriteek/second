@@ -1,1 +1,1 @@
-This is the second branch
+This is the second branch. Working with git subtree.
